@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./Beautiful People Personal Use.ttf'),
+        url('./Beautiful People two Personal Use.ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'MyFont';
+    background-color: lightblue;
+    /*background: url('./icon.png');*/
+}
